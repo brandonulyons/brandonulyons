@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 Professional senior web developer capable professional looking and user-friendly websites from stratch and writes performance optimized, reusable and refactorable codes. Professionally developed 100+ web applications with multiple **Javascript**, **PHP**, and **Python** frameworks. Hungry for knowledge, collaborative individual and possess analytical skills. Enjoys problem solving and willing to adapt to changes in the industry to stay on top.
+- 👯 Interested Working On **Software Development**
+- 📬 contact me here: **brandonulyons@gmail.com**
+- 🎮 Dota 2 enthusiast, **Bristleback** lover
 
 ## Skills
 <p>
